@@ -1,0 +1,46 @@
+TÍTULO: JUSTIFICACIÓN DE INASISTENCIA Y REPORTE DE ASISTENCIA
+
+PASO 1:
+Accede al intranet:
+https://siugeo.aulavirtualusmp.pe/intranet
+También puedes usar el código QR.
+
+PASO 2:
+Recibirás un código de verificación en tu correo institucional.
+Cópialo y pégalo en el sistema, luego haz clic en "Verificar".
+
+PASO 3:
+Dirígete a la sección:
+Trámite Documentario → Registrar
+
+PASO 4:
+Selecciona el motivo:
+"Justificación de inasistencia"
+
+PASO 5:
+Se mostrará una tabla con tus faltas.
+Selecciona el curso correspondiente, agrega un comentario
+y adjunta tu solicitud con evidencias.
+Luego haz clic en "Registrar".
+
+PASO 6:
+Revisa tu correo institucional para confirmar
+el registro de tu solicitud.
+
+PASO 7:
+Para ver el estado del trámite:
+Ir a → Consultar Trámite → Ver
+
+PASO 8:
+Para ver tu asistencia:
+Ir a → Menú Inicio → Reportes de Asistencia
+
+PASO 9:
+Selecciona tu periodo académico y haz clic en "Consultar".
+
+PASO 10:
+Verás tus cursos matriculados en ese periodo.
+
+PASO 11:
+Selecciona un curso para ver el detalle
+de asistencia semanal (teórico, práctico, etc.).

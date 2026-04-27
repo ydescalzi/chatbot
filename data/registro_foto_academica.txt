@@ -1,0 +1,36 @@
+Descripción:
+El registro de foto académica permite al estudiante subir su fotografía oficial para su identificación en los sistemas institucionales.
+
+Procedimiento:
+
+1. Para acceder al sistema de Intranet Alumnos, deberá ingresar a la siguiente ruta:
+https://siugeo.aulavirtualusmp.pe/intranet
+
+Deberá ingresar sus credenciales correctas en el formulario visualizado.
+
+2. Luego se le enviará un código de verificación a su correo institucional, en la cual tendría que colocarlo en el recuadro.
+
+Finalmente hacer click en verificar.
+
+3. Al momento de ingresar le aparecerá una ventana en la cual puede subir su foto académica, haciendo click en el ícono de la cámara y luego en guardar foto.
+
+Es importante mencionar que debe seguir las consideraciones detalladas, de lo contrario la foto será rechazada.
+
+4. Luego aparecerá la ventana de Términos y Condiciones, donde deberá indicar que está de acuerdo.
+
+5. Finalmente aparecerá un aviso de registro correcto.
+
+6. A continuación, se redirigirá automáticamente al apartado de actualización de datos personales, donde podrá actualizar su dirección y código de ubigeo (DNI).
+
+7. Asimismo, aparecerá el apartado de actualización de datos de contacto, donde podrá actualizar sus teléfonos y correos adicionales.
+
+Duración:
+Proceso inmediato (depende de la validación de la foto).
+
+Requisitos:
+- Contar con credenciales activas de intranet
+- Tener una fotografía digital en formato adecuado
+- Cumplir con las especificaciones indicadas por la USMP.
+
+Costo:
+Gratuito
