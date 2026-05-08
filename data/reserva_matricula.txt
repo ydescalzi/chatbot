@@ -1,31 +1,9 @@
-RESERVA DE MATRÍCULA
-
-Área: Oficina de Registros Académicos
-Descripción: La reserva de matrícula formaliza que el estudiante deja de estudiar un semestre académico.
-Alcance: Dirigido a estudiantes de pregrado de la Filial Norte.
-
-Consideraciones:
-- El estudiante puede reservar su matrícula hasta la semana 14 del semestre académico.
-- La renovación no podrá exceder de tres (03) años.
-- El estudiante en deficiencia académica debe solicitar evaluación previa.
-- Debe informarse del resultado en Mesa de Partes Virtual.
-- Puede solicitar Constancia de Reserva de Matrícula.
-
-Requisitos:
-- Registrar solicitud en Mesa de Partes Virtual
-- Utilizar formato establecido
-- Recibo cancelado
-
-Costo:
-S/ 50.00
-
-Duración:
-7 días hábiles
-
-Presentación:
-Mesa de Partes Virtual Filial Norte
-https://siugeo.aulavirtualusmp.pe/intranet
-
-Horario de atención:
-Lunes a viernes
-08:00 a 16:45
+¿Qué es? | 🧾 | Es el trámite mediante el cual dejas formalmente de estudiar un semestre académico sin perder tu condición de alumno.
+¿Quién puede hacerlo? | 👤 | Estudiantes de pregrado (Filial Norte).
+Consideraciones importantes | ⏰ | Puedes solicitarlo hasta la semana 14 del semestre; La reserva puede renovarse hasta un máximo de 3 años; Si estás en deficiencia académica debes pasar evaluación previa; El resultado se consulta en Mesa de Partes Virtual; Puedes solicitar una constancia de reserva.
+¿Cómo lo hago? | 📝 | 1️⃣ Registra tu solicitud en Mesa de Partes Virtual; 2️⃣ Usa el formato establecido; 3️⃣ Adjunta tu recibo cancelado; 🌐 Accede aquí: https://siugeo.aulavirtualusmp.pe/intranet
+Requisitos | 📎 | Solicitud registrada; Formato correcto; Recibo cancelado.
+Costo | 💰 | S/ 50.00 (Derecho de trámite).
+Tiempo de respuesta | ⏳ | 7 días hábiles.
+Horario de atención | 🕒 | Lunes a viernes de 08:00 a 16:45.
+Importante | 📌 | Este trámite pausa tu avance académico de forma oficial durante el semestre.

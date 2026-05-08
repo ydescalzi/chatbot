@@ -1,89 +1,70 @@
-ENCUESTA DE DESEMPEÑO DE DOCENTES
-----------------------------------
+📊 ENCUESTA DE DESEMPEÑO DE DOCENTES
 
 📌 ACCESO AL INTRANET
 
-1. Ingreso al sistema
-Accede al siguiente enlace:
-https://siugeo.aulavirtualusmp.pe/intranet
+1️⃣ Ingreso al sistema  
+Accede al siguiente enlace:  
+https://siugeo.aulavirtualusmp.pe/intranet  
 
 También puedes ingresar mediante el código QR disponible en la plataforma.
 
-📷 Imagen: 1.png
+----------------------------------
+
+2️⃣ Inicio de sesión  
+Ingresa con:  
+- DNI o Pasaporte  
+- Correo institucional USMP  
 
 ----------------------------------
 
-2. Inicio de sesión
-Ingresa con:
-- DNI o Pasaporte
-- Correo institucional USMP
-
-📷 Imagen: 2.png
+3️⃣ Verificación de acceso  
+Recibirás un código de verificación en tu correo institucional.  
+Copia el código y pégalo en el sistema.  
+Luego selecciona: VERIFICAR  
 
 ----------------------------------
 
-3. Verificación de acceso
-Recibirás un código de verificación en tu correo institucional.
-Copia el código y pégalo en el sistema.
-Luego selecciona: VERIFICAR
-
-📷 Imagen: 3.png
-
-----------------------------------
-
-4. Acceso a intranet
-Al ingresar, se mostrará el panel principal.
-Dirígete al módulo: ENCUESTAS.
-
-📷 Imagen: 4.png
+4️⃣ Acceso a intranet  
+Se mostrará el panel principal.  
+Dirígete al módulo: ENCUESTAS  
 
 ----------------------------------
 
 📊 DESARROLLO DE ENCUESTAS
 
-5. Módulo de encuestas
-Se mostrará la lista de comunicados y encuestas disponibles.
+5️⃣ Módulo de encuestas  
+Se mostrará la lista de encuestas disponibles.  
 Lee cuidadosamente las indicaciones.
 
-📷 Imagen: 5.png
+----------------------------------
+
+6️⃣ Selección de encuesta  
+Selecciona la encuesta correspondiente.  
+Luego verás tus cursos matriculados.  
+Haz clic en: REALIZAR  
 
 ----------------------------------
 
-6. Selección de encuesta
-Selecciona la encuesta correspondiente.
-Luego verás tus cursos matriculados.
-Haz clic en: REALIZAR.
-
-📷 Imagen: 6.png
+7️⃣ Desarrollo de preguntas  
+Responderás una serie de preguntas.  
+Es obligatorio completar todas las respuestas.
 
 ----------------------------------
 
-7. Desarrollo de preguntas
-Responderás una serie de preguntas con alternativas.
-Es obligatorio responder todas para completar el registro.
-
-📷 Imagen: 7.png
-
-----------------------------------
-
-8. Confirmación
-Aparecerá el mensaje:
-"REGISTRO CORRECTO"
-cuando la encuesta se haya completado exitosamente.
-
-📷 Imagen: 8.png
+8️⃣ Confirmación  
+Aparecerá el mensaje:  
+"REGISTRO CORRECTO"  
+cuando la encuesta se haya completado.
 
 ----------------------------------
 
-9. Estado de encuestas
-- Verde: encuesta completada
-- Azul: encuesta pendiente
-
-📷 Imagen: 9.png
+9️⃣ Estado de encuestas  
+- 🟢 Verde: completada  
+- 🔵 Azul: pendiente  
 
 ----------------------------------
 
-📌 IMPORTANTE
-- Completa todas las encuestas obligatorias
-- No cerrar sesión durante el proceso
-- Verifica tu conexión antes de iniciar
+📌 IMPORTANTE  
+✔ Completa todas las encuestas obligatorias  
+✔ No cerrar sesión durante el proceso  
+✔ Verifica tu conexión antes de iniciar  

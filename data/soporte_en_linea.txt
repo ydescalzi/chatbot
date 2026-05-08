@@ -1,0 +1,6 @@
+Intranet SAP | 🖥️ | Plataforma principal para trámites académicos; Accede en: https://fioriprd.udm.hec.ondemand.com/sap/bc/ui2/flp?sap-client=400; Aquí puedes ver notas, asistencias, horarios y más
+Aula Virtual | 📚 | Plataforma de clases y materiales en línea; Accede en: https://www.usmpvirtual.edu.pe/campusvirtual/; Aquí encuentras tus cursos, tareas y foros
+Correo Institucional | 📧 | Tu correo universitario @usmp.pe; Accede en: http://outlook.com/usmp.pe; Usa tu código de alumno como usuario
+Mesa de Partes Virtual | 📬 | Para enviar documentos y solicitudes sin ir a la universidad; Accede en: https://mesavirtual2usmp.edu.pe/filialnorte/; Guía disponible en la web oficial
+Biblioteca Virtual | 📖 | Acceso a libros, revistas y recursos digitales; Accede en: https://sibus.usmp.edu.pe/; Usa tu código de alumno para ingresar
+Reseteo de Contraseñas | 🔑 | Si olvidaste tu clave de SAP o correo institucional; Guía de reseteo: https://filialnorte.usmp.edu.pe/wp-content/uploads/2025/07/Sistemas-USMP.pdf; También puedes ir presencialmente a Sistemas

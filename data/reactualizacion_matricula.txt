@@ -1,40 +1,6 @@
-Título: Reactualización de Matrícula
-
-Área: Dirección Universitaria / Oficina de Registros Académicos
-
-Descripción:
-La reactualización de matrícula es un trámite que permite a los estudiantes habilitar su matrícula para el semestre vigente.
-
-Alcance:
-Dirigido a estudiantes de pregrado que han discontinuado sus estudios por uno o más semestres académicos y no efectuaron trámite de Reserva de Matrícula.
-
-Consideraciones:
-- La solicitud debe presentarse según cronograma en Mesa de Partes presencial o virtual.
-- Dirección Universitaria evalúa y deriva los expedientes a la facultad.
-- El estudiante debe adecuarse al plan curricular vigente.
-- La matrícula se realiza en el Portal Académico SAP.
-- Puede requerirse matrícula asistida según resolución decanal.
-- Se puede matricular desde 04 créditos según disponibilidad.
-- No debe haber cruce de horarios.
-- En caso de Deficiencia Académica, debe tramitar Matrícula Condicionada.
-- Trámites extemporáneos solo permiten cursos disponibles.
-
-Requisitos:
-- Registrar solicitud en Mesa de Partes (presencial o virtual)
-- Utilizar formato establecido
-- No tener deudas con la universidad
-
-Costo:
-S/ 60.00
-
-Duración:
-3 semanas aproximadamente
-
-Presentación:
-Mesa de Partes Filial Norte
-mesa_partes_fn@usmp.pe
-https://siugeo.aulavirtualusmp.pe/intranet
-
-Horario de atención:
-Lunes a viernes
-08:00 a 16:45
+¿Qué es? | 🧾 | Es el trámite para habilitar tu matrícula si dejaste de estudiar uno o más ciclos sin reserva.
+¿Quiénes participan? | 👤 | Estudiantes de pregrado que interrumpieron sus estudios.
+Consideraciones | ⚠️ | Presentar solicitud según cronograma;Evaluación por la universidad;Adaptación al plan curricular vigente;Matrícula en Portal SAP;No tener cruce de horarios;Si hay deficiencia académica, requiere matrícula condicionada.
+Pasos a seguir | 📝 | 1. Registrar solicitud en Mesa de Partes (virtual o presencial);2. Esperar evaluación de la universidad;3. Realizar matrícula en el Portal SAP.
+Requisitos y Costo | 💰 | Solicitud y formato establecido;No tener deudas;Costo: S/ 60.00.
+Contacto y Horario | 📍 | Mesa de Partes Filial Norte;Email: mesa_partes_fn@usmp.pe;Horario: Lun a Vie 08:00 a 16:45.

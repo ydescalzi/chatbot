@@ -1,0 +1,25 @@
+Certificados | 📄 | Certificado de Estudios Semestral: S/ 20.00; Certificado de Estudios Anual: S/ 40.00; Certificación Progresiva: S/ 100.00
+
+Constancias | 🧾 | Constancia de Asistencia a Eventos: S/ 30.00; Constancia de Conducta: S/ 10.00; Constancia de Créditos Aprobados: S/ 10.00; Constancia de Egresado: S/ 10.00; Constancia de Equivalencia de Notas: S/ 10.00; Constancia de Estudios: S/ 10.00; Constancia Evaluación Académica Medicina: S/ 200.00; Constancia de Internado: S/ 20.00; Constancia de Matrícula: S/ 20.00; Constancia de Orden de Mérito: S/ 20.00; Constancia de Pago: S/ 10.00; Constancia de Plan de Estudios: S/ 20.00; Constancia de Prácticas: S/ 10.00; Constancia de Presupuesto: S/ 20.00; Constancia de Suficiencia Académica: S/ 10.00; Constancia de Tesorería: S/ 20.00; Constancia de Record de Notas: S/ 20.00; Constancia Digital Record: S/ 20.00; Constancia Retiro de Ciclo: S/ 10.00; Constancia de Sumilla: S/ 10.00; Constancia de Sílabo: S/ 20.00; Constancia de Carga Horaria: S/ 20.00
+
+Duplicados | ♻️ | Duplicado de Carné Universitario: S/ 26.00; Duplicado de Certificados Eventos: S/ 50.00; Duplicado de Sílabo: S/ 10.00; Duplicado Guía de Estudio: S/ 10.00
+
+Exámenes | 📝 | Derecho Examen Residentado: S/ 800.00; Examen de Aplazados: S/ 50.00; Examen Informática Médica: S/ 100.00; Subsanación Semestral: S/ 140.00; Subsanación Anual: S/ 280.00; Subsanación Internado: S/ 950.00
+
+Matrícula | 🎓 | Curso de Nivelación: S/ 165.00; Matrícula Extemporánea: S/ 30.00; Reactualización de Matrícula: S/ 60.00; Rectificación de Matrícula: S/ 75.00; Reserva de Matrícula: S/ 50.00; Reserva de Vacante: S/ 60.00
+
+Otros Conceptos | 📌 | Abandono de Ciclo: S/ 150.00; Alquiler Casillero: S/ 5.00; Legalización por Hoja: S/ 8.00; Cambio de Turno: S/ 75.00; Carné Seguro Egresado: S/ 35.00; Carné Universitario: S/ 17.70; Carpeta Socioeconómica: S/ 36.00; Carta de Presentación: S/ 10.00; Convalidación Externa: S/ 36.00; Convalidación Interna: S/ 15.00; Envío de Diploma: S/ 600.00; Reglamento Estudiante: S/ 11.00; Reimpresión Académica: S/ 100.00; Rectificación de Nombre: S/ 50.00; Retiro de Curso: S/ 10.00; Revisión de Tesis: S/ 250.00; Solicitud Valorada: S/ 0.00
+
+Grados y Títulos Pregrado | 🎖️ | Asesoría de Tesis: S/ 350.00; Bachillerato: S/ 1040.00; Constancia de Grado: S/ 20.00; Copia Diploma: S/ 40.00; Examen de Título: S/ 1200.00; Proyecto de Tesis: S/ 80.00; Programación Examen: S/ 400.00; Revalidación Bachiller: S/ 1200.00; Revalidación Título: S/ 1800.00; Título Profesional con Tesis: S/ 1140.00; Título Profesional con Examen: S/ 2040.00
+
+Posgrado | 🎓 | Ampliación Curso: S/ 250.00; Asesoría de Tesis: S/ 1600.00; Segunda Especialidad: S/ 700.00; Examen Idioma: S/ 200.00; Doctorado: S/ 3340.00; Maestría: S/ 2340.00; Revalidación Doctor: S/ 3500.00; Revalidación Maestría: S/ 2500.00
+
+Biblioteca | 📚 | Carné Visitante: S/ 20.00; Carné Egresado: S/ 15.00; Constancia Biblioteca: S/ 10.00; Duplicado Carné: S/ 15.00; Multa por Día: S/ 5.00
+
+Idiomas | 🌎 | Certificado Nivel: S/ 35.00; Certificado Externo: S/ 70.00; Constancia Idiomas: S/ 15.00; Diploma: S/ 110.00; Examen Clasificación: S/ 20.00; Examen Suficiencia: S/ 220.00
+
+Virtualización | 💻 | Retiro Curso Virtual: S/ 20.00; Reactualización Virtual: S/ 60.00; Envío Lima: S/ 20.00; Envío Provincias: S/ 45.00; Envío Internacional: S/ 160.00; Reprogramación Foros: S/ 50.00
+
+Farmacovigilancia | 🧪 | Implementación PHV: S/ 12600.00; Entrenamiento PHV: S/ 6000.00; Evaluación PHV: S/ 6000.00
+
+Impresión y Corte | 🖨️ | Corte Láser Alumno: S/ 1.00/min; Corte Láser Público: S/ 1.50/min; Impresión 3D Alumno: S/ 1.00 + 0.25/min; Impresión 3D Público: S/ 2.00 + 0.30/min 
